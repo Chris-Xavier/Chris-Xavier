@@ -1,5 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerko+One&weight=800&size=30&pause=1000&color=B38FF7&width=435&lines=Junior+Excel+TECC+Student)](https://git.io/typing-svg)
-<!---
-Chris-Xavier/Chris-Xavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=BF6AE988&center=true&vCenter=true&width=441&height=56&lines=Excel+TECC+Junior)](https://git.io/typing-svg)
+
